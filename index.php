@@ -1,4 +1,8 @@
-<?php
-
-echo “<H1>Welcome to my PHP app“;
-echo "<br>Hello and welcome to my PHP app”;
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; ?> 
+ </body>
+</html>
