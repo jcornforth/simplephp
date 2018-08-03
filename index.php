@@ -1,4 +1,4 @@
 <?php
 
-echo "RDU is awesome";
-echo "<br><H1>Boom";
+echo “<H1>Welcome to my PHP app“;
+echo "<br>Hello and welcome to my PHP app”;
